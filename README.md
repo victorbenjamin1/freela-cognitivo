@@ -4,7 +4,7 @@ Toda a proposta do desafio está no arquivo **requirements/requirements.txt**
 
 Todo o código para a resolução do desafio está dentro do arquivo **main.py**
 
-O processamento foi todo realizado em ambiente local. O pequeno volume de dados permitiu essa abordagem. Instalei as bibliotes do Spark e fiz todos os teste em um notebook jupyter.
+O processamento foi todo realizado em ambiente local. O pequeno volume de dados permitiu essa abordagem. Instalei as bibliotes do Spark e fiz todos os testes em um notebook jupyter.
 
 Foi escolhido como saída, arquivos do tipo parquet, pois tem um formato colunar de alta performance que tem um desempenho muito melhor para consulta se comparado a outros tipos de arquivos como CSV e JSON.
 
